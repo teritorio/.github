@@ -1,6 +1,6 @@
 # software architecture
 
-![process](https://github.com/teritorio/.github/assets/890869/0f323ca5-2189-4ec1-a0ee-ea499357aab5)
+<!-- ![process](https://github.com/teritorio/.github/assets/890869/0f323ca5-2189-4ec1-a0ee-ea499357aab5) -->
 
 
 - sources -> https://github.com/teritorio/elasa-datasources
